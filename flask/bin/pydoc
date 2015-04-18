@@ -1,0 +1,5 @@
+#!/Users/joshmcmenemy/Dropbox/Working/Projects/microblog/flask/bin/python
+if __name__ == '__main__':
+    import sys, pydoc
+    sys.exit(pydoc.cli())
+
